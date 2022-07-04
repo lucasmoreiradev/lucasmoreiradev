@@ -6,6 +6,7 @@ Passionate about the best web & mobile development technologies :rocket:
 - In my spare time, I automate strategies for trading robots that run on the Metatrader 5 platform. 📊
 
 Co-Founder & Fullstack - [DIGISAN](https://digisan.com.br)
+
 Software Architect - [Roit.ai](https://roit.ai/)
 
 
