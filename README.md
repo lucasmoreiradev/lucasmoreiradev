@@ -7,7 +7,7 @@ Passionate about the best web & mobile development technologies :rocket:
 
 Co-Founder & Fullstack - [DIGISAN](https://digisan.com.br)
 
-Software Architect - [Roit.ai](https://roit.ai/)
+Software Architect - [roit.ai](https://roit.ai/)
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@lucasfauk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucasfauk)](https://twitter.com/lucasfauk)
