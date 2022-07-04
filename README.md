@@ -5,7 +5,8 @@ Passionate about the best web & mobile development technologies :rocket:
 - Specialist in electronic tax documents
 - In my spare time, I automate strategies for trading robots that run on the Metatrader 5 platform. 📊
 
-CTO & Fullstack - [DIGISAN](https://digisan.com.br)
+Co-Founder & Fullstack - [DIGISAN](https://digisan.com.br)
+Software Architect - [Roit.ai](https://roit.ai/)
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@lucasfauk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucasfauk)](https://twitter.com/lucasfauk)
