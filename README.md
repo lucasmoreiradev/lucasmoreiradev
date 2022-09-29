@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-Passionate about the best web & mobile development technologies :rocket:
+Passionate about the best software development technologies :rocket:
 
 - Specialist in electronic tax documents
-- In my spare time, I automate strategies for trading robots that run on the Metatrader 5 platform. 📊
 
 Co-Founder & Fullstack - [DIGISAN](https://digisan.com.br)
 
