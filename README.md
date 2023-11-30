@@ -4,7 +4,7 @@ Passionate about the best software development technologies :rocket:
 
 - Specialist in electronic tax documents
 
-Co-Founder & Fullstack - [DIGISAN](https://digisan.com.br)
+Co-Founder - [DIGISAN](https://digisan.com.br)
 
 Senior Software Engineer - [roit.ai](https://roit.ai/)
 
